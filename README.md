@@ -7,7 +7,7 @@ Linux kali 6.5.0-kali3-amd64 Debian 6.5.6-1kali1 (2023-10-09) x86_64 GNU/Linux
 ## Instalation process
 Install npm
 
-initialize npm in current directory
+initialize npm in current (project) directory
 ```sh
 npm init -y
 ```
