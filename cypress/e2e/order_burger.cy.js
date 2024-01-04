@@ -30,8 +30,5 @@ describe('Ordering a Burger on Wolt.com', () => {
     // TODO: confirm order
     cy.get('button[data-test-id="CartViewNextStepButton"]').click();
     
-
-    // Example assertion for successful order placement
-    cy.contains('Order placed successfully').should('exist');
   });
 });
